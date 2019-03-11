@@ -1,5 +1,9 @@
-# Django Authentication CW
 
+### POINTS: .5
+### KEY: Looks like you were on right track with model, but views don't use it and login/logout not implemented.
+
+
+### Should probably use CASCADE delete option so bloggers posts get deleted if blogger deleted
 ### Exercise 1:
 
 Create a blog app that will allows pre-created users to log in and see all posts created/assigned to them. 
